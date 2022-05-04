@@ -1,0 +1,153 @@
+﻿{
+    "Url": "www.epdata.es/compraventa-viviendas-va-ano/bb2f4fde-04ca-4edd-bbe7-7e4b2e9f31c5",
+    "Respuesta": {
+        "Id": "bb2f4fde-04ca-4edd-bbe7-7e4b2e9f31c5",
+        "Url": "www.epdata.es/compraventa-viviendas-va-ano/bb2f4fde-04ca-4edd-bbe7-7e4b2e9f31c5",
+        "Titulo": "Compraventa de viviendas en lo que va de año ",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Compraventa de viviendas a nivel mensual - Viviendas en lo que va de año para general como tipo de vivienda y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "INE",
+                    "Clasificacion": null,
+                    "Unidad": "Viviendas",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 156000,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 116608,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 72053,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 78917,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 89981,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 63617,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 75455,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 56213,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 63411,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 67743,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 74109,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 89232,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 92266,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 92119,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 83464,
+                            "Estado": "Definitivo",
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Febrero",
+                            "Parametro": "Febrero",
+                            "Valor": 106307,
+                            "Estado": "Provisional",
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
