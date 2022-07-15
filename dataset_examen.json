@@ -1,0 +1,12 @@
+﻿[
+    {"alumno":"Pedro","nota":9.09,"ranking":1},
+    {"alumno":"Juan","nota":8,"ranking":2},
+    {"alumno":"Benito","nota":7.5,"ranking":3},
+    {"alumno":"Christian","nota":7.2,"ranking":4},
+    {"alumno":"Franchesca","nota":6.6,"ranking":5},
+    {"alumno":"Ana","nota":5,"ranking":6},
+    {"alumno":"Alexa","nota":4.4,"ranking":7},
+    {"alumno":"Jonathan","nota":3.8,"ranking":8},
+    {"alumno":"Maria","nota":3.5,"ranking":9},
+    {"alumno":"Hilda","nota":2.9,"ranking":10}
+]
